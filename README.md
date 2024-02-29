@@ -30,7 +30,7 @@
 💻 Workspace Specs:
 <br /><img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3070ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-<img align="right" width="440" height="290" src="https://github.com/aravind3011/aravind3011/blob/main/Violet%20Evergarden%20gif.gif">
+<img align="right" width="420" height="290" src="https://github.com/aravind3011/aravind3011/blob/main/Violet%20Evergarden%20gif.gif">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravind3011&show_icons=true&locale=en&layout=compact" alt="aravind3011" /></p>
 
