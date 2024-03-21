@@ -18,7 +18,7 @@
 - 📫 How to reach me aravindsamiappan7@gmail.com
 - 📄 Know about my experiences [🥺updating...](🥺updating...)
 
-- ⚡ Fun fact **“In an alternate universe, I am the protagonist of a legendary video game called ‘Pixel Quest: The Quest for Infinite Ramen.’ Armed with a keyboard sword and a mouse shield, you battle code bugs, pixelated monsters, and navigate through dungeons filled with ASCII art. My ultimate goal? To find the mythical ‘Noodle of Destiny’ and restore balance to the digital realm!” 🎮🍜🌟**
+- ⚡ quotes **“七転び八起き"**
 
 🔗 Connect with me:
 <br /> [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/oniichan#6729) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aravind-samiappan/)
